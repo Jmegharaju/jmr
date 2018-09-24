@@ -1,0 +1,11 @@
+{
+    "inputMessageMetadata": {},
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "ErrorStaus"
+        }
+    },
+    "id": "02cbbac6-0886-43b0-bd95-5a257a09310f",
+    "version": "5.2.0.0"
+}
